@@ -21,16 +21,16 @@ pipenv install
 4. Make sure to select the kernel that is following the virtual enviroment version. This can be done by:
 
 a) Select the top right button on vs code. It looks like the image below.
-![alt text](image.png)
+![alt text](./README-assets/image.png)
 
 b) Go to select kernel.
-![alt text](image-1.png)
+![alt text](./README-assets/image-1.png)
 
 c) Select the python environments
-![alt text](image-2.png)
+![alt text](./README-assets/image-2.png)
 
 d)You should see something like ey-challenge-blah blah blah. That is your virtual environment for this project. Select that
-![alt text](image-3.png)
+![alt text](./README-assets/image-3.png)
 
 e) Now you should be able to run the play button!
-![alt text](image-4.png)
+![alt text](./README-assets/image-4.png)
