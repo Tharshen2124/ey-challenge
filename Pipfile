@@ -7,6 +7,16 @@ name = "pypi"
 jupyter = "*"
 pandas = "*"
 scikit-learn = "*"
+numpy = "*"
+xarray = "*"
+matplotlib = "*"
+rioxarray = "*"
+rasterio = "*"
+stackstac = "*"
+pystac-client = "*"
+planetary-computer = "*"
+odc-stac = "*"
+pillow = "*"
 
 [dev-packages]
 
