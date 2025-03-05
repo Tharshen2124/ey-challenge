@@ -17,6 +17,9 @@ pystac-client = "*"
 planetary-computer = "*"
 odc-stac = "*"
 pillow = "*"
+geopandas = "*"
+fastkml = "*"
+shapely = "*"
 
 [dev-packages]
 
